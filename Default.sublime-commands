@@ -1,0 +1,18 @@
+[
+	{
+		"caption": "Tamia: Create Block",
+		"command": "tamia",
+		"args": {
+			"generator": "block",
+			"prompt": "Block name:"
+		}
+	},
+	{
+		"caption": "Tamia: Create Component",
+		"command": "tamia",
+		"args": {
+			"generator": "component",
+			"prompt": "Component name:"
+		}
+	}
+]

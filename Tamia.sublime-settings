@@ -1,0 +1,6 @@
+{
+	"path": "/usr/local/share/npm/bin",
+	"env": {
+		"EDITOR": "subl"
+	}
+}
