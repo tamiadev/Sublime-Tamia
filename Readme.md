@@ -8,7 +8,7 @@ Allows you to call some [Tâmia generators](https://github.com/sapegin/generator
 In `~/Library/Application Support/Sublime Text 2/Packages`:
 
 ```bash
-$ git clone https://github.com/sapegin/SublimeTamia.git Tamia
+$ git clone https://github.com/sapegin/Sublime-Tamia.git Tamia
 ```
 
 More documentation coming soon.
